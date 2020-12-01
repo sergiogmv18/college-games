@@ -1,0 +1,60 @@
+ /*
+arquivo
+ */
+.center2{
+ 	width:60px;
+ 	height:100px
+ 	margin-left: auto;
+ 	margin-right: auto;
+ 	display:block;
+ 	border-style:solid;
+}
+.myButton {
+	background-color:#4682B4;
+	-moz-border-radius:1px;
+	-webkit-border-radius:1px;
+	border-radius:30px;
+	border:1px solid #000000;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 25px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#B0C4DE;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+img{
+	transition: all 0.5s linear;
+}
+img:hover{
+	transform: scale(0.9);
+}
+.center2{
+	width:60px;
+	height:100px
+	margin-left: auto;
+	margin-right: auto;
+	display:block;
+	border-style:solid;
+
+}
+.jogos1{
+  width:200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:
+}
+.jogos2{
+	width:200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:
+}
